@@ -23,7 +23,11 @@ Copy a folder from `skills/` into your agent's skills directory (for Claude: upl
 
 | Skill | Description |
 |-------|-------------|
-| _none yet_ | Copy `skills/_template` to add the first one |
+| [prd-writer](skills/prd-writer/SKILL.md) | Draft a PRD from a rough idea or notes |
+| [user-research-synthesis](skills/user-research-synthesis/SKILL.md) | Turn interviews and feedback into themes, quotes and opportunities |
+| [prioritization](skills/prioritization/SKILL.md) | Rank a backlog with RICE, ICE, MoSCoW, Kano or value vs. effort |
+| [stakeholder-update](skills/stakeholder-update/SKILL.md) | Write a concise status update with progress, risks and asks |
+| [experiment-design](skills/experiment-design/SKILL.md) | Plan an A/B test with hypothesis, metrics, sample size and decision rules |
 
 ## Contributing
 
