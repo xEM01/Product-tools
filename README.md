@@ -28,6 +28,8 @@ Copy a folder from `skills/` into your agent's skills directory (for Claude: upl
 | [prioritization](skills/prioritization/SKILL.md) | Rank a backlog with RICE, ICE, MoSCoW, Kano or value vs. effort |
 | [stakeholder-update](skills/stakeholder-update/SKILL.md) | Write a concise status update with progress, risks and asks |
 | [experiment-design](skills/experiment-design/SKILL.md) | Plan an A/B test with hypothesis, metrics, sample size and decision rules |
+| [jira-ticket-writer](skills/jira-ticket-writer/SKILL.md) | Write clean Jira tickets with action items, testable acceptance criteria and measurables |
+| [confluence-to-project-plan](skills/confluence-to-project-plan/SKILL.md) | Turn a long Confluence page into a phased project plan and an importable Jira backlog |
 
 ## Contributing
 
